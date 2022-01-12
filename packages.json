@@ -1,0 +1,16 @@
+{
+  "packages": {
+    "dynam/dynam-craft": {
+      "dev-master": {
+        "name": "dynam/dynam-craft",
+        "type": "project",
+        "version": "dev-master",
+        "source": {
+          "type": "git",
+          "url": "git@github.com:dynam/dynam-craft.git",
+          "reference": "832bc976f6a977756fcdce6fea08574298c3d6f0"
+        }
+      }
+    }
+  }
+}
